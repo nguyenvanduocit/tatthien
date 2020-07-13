@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a web developer.
+
+I'm mostly working with **Laravel**, **Vue.js** abd **WordPress**. Particularly interested in open source, startup, and design.
+
+My [Twitter](https://twitter.com/thisisthien)
+
+
+
 <!--
 **tatthien/tatthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
