@@ -2,7 +2,7 @@
 
 I am a web developer.
 
-I'm mostly working with **Laravel**, **Vue.js** abd **WordPress**. Particularly interested in open source, startup, and design.
+I'm mostly working with **Laravel**, **Vue.js** and **WordPress**. Particularly interested in open source, startup, and design.
 
 My [Twitter](https://twitter.com/thisisthien)
 
